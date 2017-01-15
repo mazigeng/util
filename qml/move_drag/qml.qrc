@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>MoveRect.qml</file>
+        <file>DragMove.qml</file>
+        <file>DragResize.qml</file>
+    </qresource>
+</RCC>
